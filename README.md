@@ -1,1 +1,2 @@
 # React-Portfolio
+This is my react portfolio, where i used react to update my old portfolio. With react i created the public, src, components,, pages, and img folders. In the pages folder i have the javascript of my index, contact, and portfolio pages. In my components folder, i have the javascript of the card, navbar, and form components. My app.css, holds the css of the portfolio. The app.js page connects to the react-router-dom, and allows the app to switch between the 3 main pages, using the switch and Router classes.
